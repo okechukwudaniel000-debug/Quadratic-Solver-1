@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Visual Studio cache/index files
+*.vsidx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

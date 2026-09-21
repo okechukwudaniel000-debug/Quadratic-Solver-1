@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Quadratic Equation Solver/Quadratic Equation Solver.vbproj" />
+  <Project Path="QuadraticSolver.Tests/QuadraticSolver.Tests.vbproj" />
+</Solution>
